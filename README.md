@@ -1,7 +1,7 @@
-[![install](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/install.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/install.yml)
-[![lint](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/lint.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/lint.yml)
-[![format](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml)
-[![format](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml)
+[![install](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/install.yml)
+[![lint](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/lint.yml)
+[![format](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/format.yml)
+[![test](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/IDS706_Fall2023_Mini_Project_6_Complex_SQL/actions/workflows/test.yml)
 # IDS706_Fall2023_Mini_Project_6_Complex_SQL
 
 IDS706 week 6 mini project: Design a complex SQL query involving joins, aggregation, and sorting.
